@@ -3,3 +3,10 @@ scrapydweb>=1.4.0
 
 pymysql>=0.9.3
 psycopg2>=2.7.7
+
+scrapyd>=1.2.1
+scrapy-redis
+logparser>=0.8.2
+
+mysqlclient>=1.4.4
+SQLAlchemy>=1.3.6
